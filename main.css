@@ -1,0 +1,222 @@
+    * {
+        margin: 0px;
+        padding: 0px;
+        font-family: Arial;
+    }
+    /* head section */
+    
+    .head {
+        background: rgb(59, 35, 82);
+        color: white;
+        padding-top: 30px;
+        text-align: center;
+    }
+    
+    .head .space {
+        letter-spacing: 14px;
+    }
+    
+    .head nav {
+        padding: 30px 0px;
+    }
+    
+    .spanleft {
+        margin-left: 40px;
+    }
+    
+    .spanleftt {
+        margin-left: 350px;
+    }
+    /* body section */
+    
+    .bg1 {
+        background-image: url(images/bg1.jpg);
+        background-position: center;
+        background-size: cover;
+        width: 100%;
+        height: 900px;
+    }
+    
+    .fab {
+        color: white;
+        text-align: center;
+        line-hei ght: 35px;
+    }
+    
+    .fab2 {
+        font-size: 40px;
+        line-height: 50px;
+    }
+    
+    .updown {
+        margin-top: 220px;
+        width: 100%;
+    }
+    
+    .bg2 {
+        background: rgb(245, 242, 242);
+        float: left;
+        margin-top: 140px;
+        width: 43%;
+    }
+    
+    .bg45 {
+        background: url("images/bg3.jpg");
+        background-position: cnter;
+        background-size: cover;
+        height: 288px;
+        float: left;
+        width: 56.9%;
+        margin-top: 140px;
+    }
+    
+    .brown {
+        background: brown;
+        background-image: url('mages/bg5.png');
+        background-size: cover;
+        width: 48.5%;
+        float: left;
+        padding-top: 30px;
+        padding-left: 100px;
+        padding-right: 7px;
+        height: 288px;
+    }
+    
+    .brown span {
+        color: goldenrod;
+        font-size: 170px;
+        margin-left: 39px;
+    }
+    
+    .image {
+        margin-top: -312px;
+        padding-right: 0px;
+    }
+    
+    .clear {
+        clear: both;
+    }
+    
+    .contain {
+        width: 100%;
+        margin: 0px;
+    }
+    /* latest trend */
+    
+    .latesttrend {
+        background: white;
+        border: 1px solid white;
+        padding: 70px 0px 90px 0px;
+        margin-top: 0px;
+        text-align: center;
+    }
+    
+    .ltborder {
+        border: 2px solid gray;
+        padding: 16px;
+        text-transform: uppercase;
+        font-size: 20px;
+    }
+    /* image collection list */
+    
+    .collections {
+        border: 1px solid white;
+        margin: 0px 10px 60px 40px;
+        padding: 0px 75px 0px 72px;
+    }
+    
+    .tagss {
+        color: gray;
+        margin-top: 100px;
+        margin-bottom: 0px;
+        margin-right: 35px;
+    }
+    
+    .viewmore {
+        background: white;
+        border: 2.5px solid gray;
+        border-radius: 60px;
+        margin: 20% 46%;
+        padding: 10px;
+        text-align: center;
+    }
+    
+    .ltborder {
+        color: gray;
+        border: 2px solid gray;
+        padding: 16px;
+        text-transform: uppercase;
+        font-size: 25px;
+    }
+    
+    .blog {
+        color: gray;
+        text-transform: uppercase;
+        text-align: center;
+        border: 2px solid gray;
+        padding: 10px 120px 10px 70px;
+        margin: 8% 43%;
+        font-size: 25px;
+    }
+    
+    footer {
+        background: rgb(59, 35, 82);
+        color: white;
+        padding: 40px;
+        margin-top: 10%;
+    }
+    
+    .foot {
+        margin-left: 8%;
+        margin-bottom: 10%;
+        width: 100%;
+    }
+    
+    input[type=text] {
+        background: inherit;
+        border: 1px solid white;
+        width: 220px;
+        padding: 4px;
+        margin-bottom: 10px;
+    }
+    
+    input[type=submit] {
+        background: white;
+        color: gray;
+        border: none;
+        padding: 2px 10px 2px 10px;
+    }
+    
+    .social {
+        text-align: center;
+        width: 200px;
+        margin-left: 40%;
+    }
+    
+    .social .s {
+        margin-left: 40px;
+        padding-bottom: 30px;
+    }
+    
+    .border {
+        border-bottom: 2px solid rgb(121, 117, 117);
+        margin-left: 80px;
+        margin-bottom: 20px;
+        width: 86%;
+    }
+    
+    .copy {
+        color: rgb(121, 117, 117);
+        text-align: center;
+        font-size: 14px;
+        font-weight: bold;
+    }
+    
+    .bl {
+        display: inline-block;
+        margin-left: 200px;
+    }
+    
+    .se1 {
+        margin-left: 20px;
+    }
